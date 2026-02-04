@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "npx @cloudflare/next-on-pages@1 --legacy-peer-deps",
+
     "start": "next start -p 3000"
   },
   "dependencies": {
